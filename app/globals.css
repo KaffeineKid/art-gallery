@@ -10,3 +10,7 @@ body {
   overflow-x: hidden;
 }
 
+body {
+background: rgb(58,180,143);
+background: linear-gradient(90deg, rgba(58,180,143,1) 0%, rgba(29,137,253,1) 52%, rgba(58,180,143,1) 100%);
+}

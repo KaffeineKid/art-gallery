@@ -1,8 +1,12 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   align-items: center;
-  padding: 6rem;
   min-height: 100vh;
+}
+
+.randomImg {
+  border-radius: 10px;
+  box-shadow: 8px 8px 2px 1px rgba(53, 55, 52, 0.2);
+  margin-block: 150px 20px;
 }
