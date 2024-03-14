@@ -1,0 +1,5 @@
+.header {
+  font-family: var(--font-kanit);
+  text-align: center;
+  margin-block-start: 50px;
+}
